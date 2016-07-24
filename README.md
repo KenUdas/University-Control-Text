@@ -3,13 +3,13 @@ This repository contains the HTML and other source document for the ePub3 versio
 
 All documents, unless otherwise indicated are licensed in the Public Domain. The text should be attributed to James McKeen Cattell and the work cited as follows:
 
-Cattell, James McKeen. University Control. New York: The Science Press, 1913.
+Cattell, James McKeen. *University Control*. New York: The Science Press, 1913.
 
 Please note where files may be assigned alternative Creative Commons licensing.
 
 ## PROJECT CONTEXT
 
-Introduction to Current Work
+### Introduction to Current Work
 
 I have started a digital restoration effort on James McKeen Cattell’s University Control, published in 1914. Although a variety of paper versions are available, there is not clean and well-formatted electronic version. University Control can be downloaded in multiple formats on the Internet Archived, but the renderings are riddled with formatting inconsistences, misspellings, and poorly rendered markup, which is indicative of automated digitalization and conversion. Although it is with great appreciation that I could start with a good base document, I felt that the quality rendings reduced readability, particularly for those requiring assistive technologies.   During the restoration I have:
 
@@ -26,7 +26,7 @@ I am an armature hobbyist with the standards used. I will continue to make impro
 I have used Calibre to edit the source files and compile the ePub document.  Calibre is a open source product, with a constant stream of improvements and updates.  I have found using it excellent and recommend it for anybody interested in viewing and editing the source files.
 
 
-## Future Work
+## FUTURE WORK
 My intent is to annotate the document and include additional content for context. I will create a separate repository for an edited and annotated version of University Control. I will also create a separate repository for well formatted ePub versions of the resources referenced in University Control.  It is my hope that the annotated version of the text along with the original source materials can be used by teachers and scholars of university governance, the history of educational administration, the progressive era in the United States, and related areas of study.
 
 Additional sections may include:
