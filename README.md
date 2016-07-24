@@ -23,7 +23,7 @@ I have started a digital restoration effort on James McKeen Cattell’s Universi
 
 I am an armature hobbyist with the standards used. I will continue to make improvements and will eventually publish a Task Backlog for this project with known improvement needs. A list of files with descriptions is also forthcoming.
 
-I have used Calibre to edit the source files and compile the ePub document.  Calibre is a open source product, with a constant stream of improvements and updates.  I have found using it excellent and recommend it for anybody interested in viewing and editing the source files.
+I have used [Calibre](https://calibre-ebook.com/) to edit the source files and compile the ePub document.  Calibre is a open source product, with a constant stream of improvements and updates.  I have found using it excellent and recommend it for anybody interested in viewing and editing the source files.
 
 
 ## FUTURE WORK
