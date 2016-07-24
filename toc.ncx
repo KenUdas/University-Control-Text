@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="2c847987-1afc-4329-8602-7fea89f36eb9" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.57.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>University Control</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>University Control</text>
+      </navLabel>
+      <content src="frontmatter_titlepage.html"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>Table of Contents</text>
+        </navLabel>
+        <content src="toc.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="frontmatter_preface.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Part I University Control</text>
+      </navLabel>
+      <content src="bodymatter_part01.html"/>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>I. Historical Retrospective</text>
+        </navLabel>
+        <content src="bodymatter_part01_chapter01.html#uca4fuwjnywySpzesrIiPd8"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>II. A Referendum On Administration</text>
+        </navLabel>
+        <content src="bodymatter_part01_chapter02.html"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>III. The Corporation and The President</text>
+        </navLabel>
+        <content src="bodymatter_part01_chapter03.html"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>IV. The Position of The Professor</text>
+        </navLabel>
+        <content src="bodymatter_part01_chapter04.html"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>V. The Duties of The Professor</text>
+        </navLabel>
+        <content src="bodymatter_part01_chapter05.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Part II Letters on University Control</text>
+      </navLabel>
+      <content src="bodymatter_part02.html"/>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>I. Letters from Harvard University</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter01.html"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>II. Letters from Yale University</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter02.html"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>III. Letters from Columbia University</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter03.html"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>IV. Letters from the University of Pennsylvania</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter04.html"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>V. Letters from the Johns Hopkins University</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter05.html"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>VI. Letters from the University of Chicago</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter06.html"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>VII. Letters from Cornell University</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter07.html"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>VIII. Letters from the Massachusetts Institute of Technology</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter08.html"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>IX. Letters from Institutions in New England</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter09.html"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>X. Letters from Institutions in the Middle States</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter10.html"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>XI. Letters from Colleges for Women</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter11.html"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>XII. Letters from Institutions in the Southern States</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter12.html"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>XIII. Letters from the University of Wisconsin</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter13.html"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>XIV. Letters from the University of Michigan</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter14.html"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>XV. Letters from the Universities of Minnesota, Illinois, Missouri and California</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter15.html"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>XVI. Letters from State Institutions in the Central and Western States</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter16.html"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>XVII. Letters from Private Institutions in the Central and Western States</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter17.html"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>XVIII. Anonymous Letters</text>
+        </navLabel>
+        <content src="bodymatter_part02_chapter18.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>Part III Articles on University Control</text>
+      </navLabel>
+      <content src="bodymatter_part03.html"/>
+      <navPoint id="num_30" playOrder="30">
+        <navLabel>
+          <text>I. The Administrative Peril in Education1</text>
+        </navLabel>
+        <content src="bodymatter_part03_chapter01.html"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>II. The Need of Administrative Changes in the American University</text>
+        </navLabel>
+        <content src="bodymatter_part03_chapter02.html"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>III. The Status of the American College Professor</text>
+        </navLabel>
+        <content src="bodymatter_part03_chapter03.html"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>IV. The Government of American Universities</text>
+        </navLabel>
+        <content src="bodymatter_part03_chapter04.html"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>V. Concerning the American University</text>
+        </navLabel>
+        <content src="bodymatter_part03_chapter05.html"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>VI. Externalism in American Universities</text>
+        </navLabel>
+        <content src="bodymatter_part03_chapter06.html"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>VII. University Administration and University Ideals</text>
+        </navLabel>
+        <content src="bodymatter_part03_chapter07.html"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>VIII. Professorial Ethics</text>
+        </navLabel>
+        <content src="bodymatter_part03_chapter08.html"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>IX. Closer Relations Between Trustees and Faculty</text>
+        </navLabel>
+        <content src="bodymatter_part03_chapter09.html"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>X. Faculty Participation in University Government</text>
+        </navLabel>
+        <content src="bodymatter_part03_chapter10.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="backmatter_index.html"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>End Notes</text>
+      </navLabel>
+      <content src="backmatter_endnotes.html"/>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>Chapter 1, Historical Retrospect</text>
+        </navLabel>
+        <content src="backmatter_endnotes.html#uBUiyKiLmWS2eABKFwa9WjB"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>Chapter 2, A Referendum on Administration</text>
+        </navLabel>
+        <content src="backmatter_endnotes.html#uhlntfATikZ6SPSUVrD36x4"/>
+      </navPoint>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>Chapter 4, The Position of The Professor</text>
+        </navLabel>
+        <content src="backmatter_endnotes.html#uHvfuBeVIBxwyrZw5mkN2E8"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>Chapter 5, The Duties of The Professor</text>
+        </navLabel>
+        <content src="backmatter_endnotes.html#uqfisprbEVZULNFd4ppbYJG"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="46">
+        <navLabel>
+          <text>Chapter 1, The Administrative Peril in Education</text>
+        </navLabel>
+        <content src="backmatter_endnotes.html#uXgvl8j5BLBrDlHaxdd3iVG"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47">
+        <navLabel>
+          <text>Chapter 4, The Government of American Universities</text>
+        </navLabel>
+        <content src="backmatter_endnotes.html#ua7aJrbdxhzpgpIAQWoHtw8"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

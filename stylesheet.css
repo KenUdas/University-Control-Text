@@ -1,0 +1,276 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-indent: 30px;
+}
+.no_indent {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-indent: 0px;
+}
+
+.no_indent_margins {
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-indent: 0px;
+}
+
+.quotation {
+  line-height: 1.1;
+}
+.first_word {
+  display: inline;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  font-variant: small-caps;
+  font-size: 125%;
+}
+.UC_heading1 {
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+  font-size: 150%;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  /*text-decoration: underline;*/
+  text-transform: uppercase;
+}
+.UC_heading2 {
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+  font-size: 110%;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0.67em 0;
+}
+.UC_heading3 {
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+  font-variant: small-caps;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  font-size: 110%;
+  margin: 0.67em 0;
+}
+
+.center_text1 {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  font-variant: small-caps;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-indent: 0;
+}
+
+.center_text2 {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  text-align: center;
+  margin: 1em 0;
+  text-indent: 0;
+}
+
+.center_text3 {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-indent: 0;
+}
+
+
+.center_text4 {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  font-variant: small-caps;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-indent: 0;
+}
+
+
+.super_original {
+  /*vertical-align: super;*/
+  text-decoration: none;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.3em;
+}
+
+.endnotes_original {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  margin: 1em 0;
+}
+
+.endnote_reference {
+  text-decoration: none;
+  vertical-align:10%;
+}
+  
+.box {
+  display: block;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 75%;
+  border: black solid 3px;
+  padding: 2% 5%;
+}
+
+.table_heading {
+      text-align: center;
+      padding: 5px;
+    }
+    
+.cell_center {
+      text-align: center;
+    }
+
+
+/*Formatting for standard text throiughout the document.  */
+.standard_text {
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;  
+}
+/*Formatting for standard text throiughout the document.  */
+      
+          
+.calibre2 {
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+
+.calibre3 {
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  margin: 0.67em 0;
+}
+.calibre4 {
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+  font-size: 1.41667em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.83em 0;
+}
+.calibre6 {
+  font-weight: bold;
+}
+.calibre7 {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  margin: 1em 0;
+}
+.calibre8 {
+  display: block;
+}
+.calibre9 {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 1em 0;
+}
+.calibre10 {
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 0.67em 0;
+}
+.calibre11 {
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 0.67em 0;
+}
+.calibre12 {
+  color: gray;
+  display: block;
+  height: 2px;
+  border: currentColor inset 1px;
+  margin: 0.5em auto;
+}
+.calibre13 {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  font-size: 1.125em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1em 0;
+}
+.calibre14 {
+  font-weight: bold;
+  line-height: 1.2;
+}
+.calibre15 {
+  text-align: center;
+}
+.calibre16 {
+  display: block;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+  font-size: 2em;
+  font-weight: bold;
+  letter-spacing: 2px;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 0.67em 0;
+}
+.calibre17 {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  font-size: 1.125em;
+  line-height: 1.2;
+  margin: 1em 0;
+}
+.calibre18 {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  margin: 1em 0;
+}
+.calibre19 {
+  display: block;
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  text-align: justify;
+  text-transform: capitalize;
+  margin: 1em 0;
+}
+.calibre23 {
+  display: block;
+  line-height: 1.2;
+}
